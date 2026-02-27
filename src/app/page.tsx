@@ -192,7 +192,7 @@ export default function Home() {
           </div>
           <div>
             <h1 className="font-semibold text-lg tracking-tight text-white uppercase">Staicka <span className="text-cyan-500">Architect</span></h1>
-            <p className="text-xs text-zinc-400">Powered by Gemini 1.5 Pro</p>
+            <p className="text-xs text-zinc-400">By Ángel Gómez Developed with Gemini API </p>
           </div>
         </div>
 
